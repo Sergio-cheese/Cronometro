@@ -24,5 +24,10 @@ namespace Cronometro
         {
             InitializeComponent();
         }
+
+        private void Label_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            this.DragMove();
+        }
     }
 }
