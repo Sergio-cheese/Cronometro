@@ -11,3 +11,6 @@ C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Cronometro\Cronometro
 C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache
 C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.exe
 C:\Users\Conta Geral\Documents\Visual Studio 2013\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+C:\projects\_reposit\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\Cronometro.pdb

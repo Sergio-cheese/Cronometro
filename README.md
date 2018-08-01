@@ -1,2 +1,2 @@
 # Cronometro
-Cronometro com tempo estabelecido
+Cronometro com tempo estabelecid
