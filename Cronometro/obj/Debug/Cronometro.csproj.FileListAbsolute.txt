@@ -16,7 +16,6 @@ C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\Cronometro.exe
 C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
 C:\projects\_reposit\Cronometro\Cronometro\bin\Debug\Cronometro.exe
 C:\projects\_reposit\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
-C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\Cronometro.csprojResolveAssemblyReference.cache
 C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\MainWindow.baml
 C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\MainWindow.g.cs
 C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\App.g.cs
