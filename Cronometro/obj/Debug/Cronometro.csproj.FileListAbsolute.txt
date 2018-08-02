@@ -23,3 +23,4 @@ C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\Cronometro_MarkupCompile.ca
 C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\Cronometro.g.resources
 C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
 C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache
+C:\projects\_reposit\Cronometro\Cronometro\obj\Debug\Cronometro.csprojResolveAssemblyReference.cache

@@ -28,8 +28,6 @@ namespace Cronometro
         private void Rectangle_PreviewMouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
             this.DragMove();
-        }    
-
-
+        }
     }
 }
