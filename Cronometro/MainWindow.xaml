@@ -6,13 +6,39 @@
         <Rectangle RadiusY="9.5" RadiusX="9.5" Stroke="Black">
             <Rectangle.Fill>
                 <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
-                    <GradientStop Color="Black" Offset="0.078"/>
+                    <GradientStop Color="#FF191919" Offset="0.051"/>
                     <GradientStop Color="#FF898989" Offset="1"/>
                     <GradientStop Color="Black"/>
                 </LinearGradientBrush>
             </Rectangle.Fill>
         </Rectangle>
         <Rectangle Height="59" RadiusY="9.5" RadiusX="9.5" Stroke="Black" VerticalAlignment="Top" Fill="Black" PreviewMouseLeftButtonDown="Rectangle_PreviewMouseLeftButtonDown"/>
+        <Rectangle HorizontalAlignment="Left" Height="135" Margin="54,161,0,0" Stroke="Black" VerticalAlignment="Top" Width="169" RadiusY="12.5" RadiusX="12.5">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF534848" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="135" Margin="249,161,0,0" Stroke="Black" VerticalAlignment="Top" Width="169" RadiusY="12.5" RadiusX="12.5">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF534848" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="135" Margin="444,161,0,0" Stroke="Black" VerticalAlignment="Top" Width="169" RadiusY="12.5" RadiusX="12.5">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF534848" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label Content=":" HorizontalAlignment="Left" Height="103" Margin="223,193,0,0" VerticalAlignment="Top" Width="26" FontSize="48" FontFamily="Showcard Gothic" Foreground="#FF1B1A1A"/>
+        <Label Content=":" HorizontalAlignment="Left" Height="103" Margin="418,193,0,0" VerticalAlignment="Top" Width="26" FontSize="48" FontFamily="Showcard Gothic" Background="Transparent" Foreground="#FF1B1A1A"/>
 
     </Grid>
 </Window>
